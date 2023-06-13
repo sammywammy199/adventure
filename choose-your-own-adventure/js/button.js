@@ -1,3 +1,0 @@
-function changePage(url){
-    
-}
